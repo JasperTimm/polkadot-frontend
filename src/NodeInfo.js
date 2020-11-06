@@ -35,17 +35,17 @@ function Main (props) {
             Switch to 
             <br/>
             {' '}
-            <a href='polkadot-frontend' class='button'>
+            <a href='' class='button'>
               Polkadot
             </a>
             <br/>
             {' '}
-            <a href='polkadot-frontend?rpc=wss://kusama-rpc.polkadot.io'>
+            <a href='?rpc=wss://kusama-rpc.polkadot.io'>
               Kusama
             </a>
             <br/>
             {' '}
-            <a href='polkadot-frontend?rpc=wss://dev-node.substrate.dev'>
+            <a href='?rpc=wss://dev-node.substrate.dev'>
               Substrate Dev
             </a>
           </Card.Description>
