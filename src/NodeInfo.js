@@ -32,9 +32,21 @@ function Main (props) {
             <span>{nodeInfo.chain}</span>
           </Card.Meta>
           <Card.Description>
-            Built using the{' '}
-            <a href='https://github.com/substrate-developer-hub/substrate-front-end-template'>
-              Substrate Front End Template
+            Switch to 
+            <br/>
+            {' '}
+            <a href='polkadot-frontend' class='button'>
+              Polkadot
+            </a>
+            <br/>
+            {' '}
+            <a href='polkadot-frontend?rpc=wss://kusama-rpc.polkadot.io'>
+              Kusama
+            </a>
+            <br/>
+            {' '}
+            <a href='polkadot-frontend?rpc=wss://dev-node.substrate.dev'>
+              Substrate Dev
             </a>
           </Card.Description>
         </Card.Content>
