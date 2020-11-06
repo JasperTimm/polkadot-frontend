@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/polkadot-frontend/static/js/main.f8f2a904.chunk.js",
+    "main.js.map": "/polkadot-frontend/static/js/main.f8f2a904.chunk.js.map",
+    "runtime-main.js": "/polkadot-frontend/static/js/runtime-main.4ab35452.js",
+    "runtime-main.js.map": "/polkadot-frontend/static/js/runtime-main.4ab35452.js.map",
+    "static/css/2.e74619de.chunk.css": "/polkadot-frontend/static/css/2.e74619de.chunk.css",
+    "static/js/2.49129a77.chunk.js": "/polkadot-frontend/static/js/2.49129a77.chunk.js",
+    "static/js/2.49129a77.chunk.js.map": "/polkadot-frontend/static/js/2.49129a77.chunk.js.map",
+    "index.html": "/polkadot-frontend/index.html",
+    "precache-manifest.3a680a2e4fad9b88d1f5b0a754e5bba0.js": "/polkadot-frontend/precache-manifest.3a680a2e4fad9b88d1f5b0a754e5bba0.js",
+    "service-worker.js": "/polkadot-frontend/service-worker.js",
+    "static/css/2.e74619de.chunk.css.map": "/polkadot-frontend/static/css/2.e74619de.chunk.css.map",
+    "static/js/2.49129a77.chunk.js.LICENSE.txt": "/polkadot-frontend/static/js/2.49129a77.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/polkadot-frontend/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ab35452.js",
+    "static/css/2.e74619de.chunk.css",
+    "static/js/2.49129a77.chunk.js",
+    "static/js/main.f8f2a904.chunk.js"
+  ]
+}
